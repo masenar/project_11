@@ -1,1 +1,2 @@
 Contents of file 3
+Added second line in file 3
